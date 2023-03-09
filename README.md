@@ -1,6 +1,6 @@
 # LGR-CHS-Subtitles
 
-This repo is for LGR video subtitles I made in Simplified Chinese. Feel free to use them as you wish.
+This repo is for LGR video subtitles I made in Simplified Chinese. Feel free to use them as you wish —— as long as you don't violate the licence.
 
 # License information/字幕授权声明
 
